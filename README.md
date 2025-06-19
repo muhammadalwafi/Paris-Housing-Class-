@@ -43,8 +43,8 @@ The dataset used in this project is `ParisHousingClass.csv` which includes 10,00
 
 # How to Run
 1. You must have Jupiter or VS Code to run the code
-2. Open      [ParisHousingClass.ipynb](url) in Jupiter or VS Code
-3. Download and ensure [ParisHousingClass.csv](dataset/ParisHousingClass.csv) dataset have the same location with Open ParisHousingClass.ipynb
+2. Open      [ParisHousingClass.ipynb](ParisHousingClass.ipynb) in Jupiter or VS Code
+3. Download and ensure [ParisHousingClass.csv](ParisHousingClass.csv) dataset have the same location with Open ParisHousingClass.ipynb
 4. Run all cell step by step
 
 
